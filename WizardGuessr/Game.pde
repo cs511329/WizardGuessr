@@ -97,7 +97,7 @@ public class Game {
     locs.add(new Location(387, 322, 1, loadImage("Locations/loc46.png"), maps.get(12)));
     locs.add(new Location(145, 400, 1, loadImage("Locations/loc47.png"), maps.get(12)));
     locs.add(new Location(517, 256, 1, loadImage("Locations/loc48.png"), maps.get(6)));
-    locs.add(new Location(232, 394, 1, loadImage("Locations/loc49.png"), maps.get(6)));
+    locs.add(new Location(493, 206, 1, loadImage("Locations/loc49.png"), maps.get(6)));
     locs.add(new Location(560, 255, 1, loadImage("Locations/loc50.png"), maps.get(3)));
     locs.add(new Location(321, 427, 1, loadImage("Locations/loc51.png"), maps.get(3)));
     locs.add(new Location(468, 437, 1, loadImage("Locations/loc52.png"), maps.get(7)));
